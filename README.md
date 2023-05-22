@@ -1,7 +1,8 @@
 ### Oi! Meu nome é Eduardo Moraes Tavares ^^
 
-**Atualmente cursando engenharia da computação, sou apaixonado por aprender coisas novas 👾 ** 
-Here are some ideas to get you started:
-
-
+Sou capricorniano e tenho 19 anos⚡  
+Atualmente cursando engenharia da computação 👾  
+Completamente apaixonado por aprender coisas novas 🔎  
+Jogo jogos desde que me conheço por gente, gosto de praticamente todos os gêneros💯  
+Gosto bastante de ciência de dados, atualmente estudo linguagens ligadas à ela 🧑🏻‍💻  
 
