@@ -5,7 +5,9 @@ Atualmente cursando engenharia da computação na melhor faculdade do mundo, a U
 Completamente apaixonado por aprender coisas novas 🔎  
 Jogo jogos desde que me conheço por gente, gosto de praticamente todos os gêneros💯  
 Gosto bastante de ciência de dados, atualmente estudo linguagens ligadas à ela 🧑🏻‍💻  
-Além de Data Science, me interesso pelo ramo de Desenvolvimento Mobile 📱 
+Além de Data Science, me interesso pelo ramo de Desenvolvimento Mobile 📱
+
+#### Antes de seguir, só uma pergunta :
 Agora que eu me apresentei, você poderia <img height = "15" width = "100" src = "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"> ?
 
 ## Hard Skills:
