@@ -1,11 +1,11 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=&center=falso&vCenter=falso&lines=Ol%C3%A1+%F0%9F%91%8B+meu+nome+é+Eduardo+Tavares;Seja+bem+vindo(a)!)](https://git.io/typing-svg)
 
-Sou capricorniano e tenho 19 anos⚡  
-Atualmente cursando engenharia da computação na melhor faculdade do mundo, a UFBA ^^ 👾  
-Completamente apaixonado por aprender coisas novas 🔎  
-Jogo jogos desde que me conheço por gente, gosto de praticamente todos os gêneros💯  
-Gosto bastante de ciência de dados, atualmente estudo linguagens ligadas à ela 🧑🏻‍💻  
-Além de Data Science, me interesso pelo ramo de Desenvolvimento Mobile 📱
+Tenho 22 anos⚡  
+Atualmente cursando engenharia da computação na UFBA 👾  
+Apaixonado por aprender coisas novas 🔎  
+Gosto de jogar diferentes tipos de jogos💯  
+Entusiasta em ciência de dados, mais focado no mundo de Business Inteligence 🧑🏻‍💻  
+Além de Data Science, também me interesso por Machine Learning 🤖
 
 #### Antes de seguir, só uma pergunta :
 Agora que eu me apresentei, você poderia <img height = "15" width = "100" src = "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"> ?
