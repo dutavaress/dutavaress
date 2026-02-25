@@ -11,7 +11,7 @@ Além de Data Science, também me interesso por Machine Learning 🤖
 Agora que eu me apresentei, você poderia <img height = "15" width = "100" src = "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"> ?
 
 ## Hard Skills:
-<img src = "https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"> <img src = "https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge&logo=Visual-Basic&logoColor=white"> <img src = "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"> <img src = "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img src = "https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"> <img src = "https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src = "https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"> <img src = "https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge&logo=Visual-Basic&logoColor=white"> <img src = "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"> <img src = "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
 
 
 ## Soft Skills:
